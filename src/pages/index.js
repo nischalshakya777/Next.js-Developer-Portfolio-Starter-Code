@@ -17,7 +17,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className={styles.center}>
-          <h1 className={inter.className}>🚀 Welcome to Nischal’s Site</h1>
+          <h1 className={inter.className}>🚀 Welcome</h1>
           <p className={inter.className}>
             This is my personalized Next.js website deployed on Netlify!
           </p>
